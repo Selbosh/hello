@@ -11,3 +11,7 @@ Here is a picture of a chick. It is by [Philipp Kleindienst](https://pixabay.com
 ## A new section
 
 I just wrote *this* in RStudio!
+
+## Another new section created on GitHub
+
+I will need to **pull** this!
